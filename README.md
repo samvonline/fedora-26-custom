@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fedora 26 Customization Pages
 
 You can use the [editor on GitHub](https://github.com/samvonline/fedora-26-custom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Installation Process
+
+## Costomization
+
+
+### Script Writing 
 
 - Bulleted
 - List
